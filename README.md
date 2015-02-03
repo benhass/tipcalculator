@@ -1,4 +1,4 @@
 # tipcalculator
 iOS tip calculator
 
-![tipcalculator demo](https://raw.githubusercontent.com/benhass/super-tip-calc/master/tip-calc-demo.gif)
+![tipcalculator demo](https://raw.githubusercontent.com/benhass/tipcalculator/master/tip-calc-demo.gif)
